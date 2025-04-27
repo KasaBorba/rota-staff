@@ -1,21 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>Bem-vindo ao Projeto Rota Staff 🚀</h1>
+        <p>Agora sim o seu projeto está no ar!</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://staffdobrasil.com.br"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visite a Staff do Brasil
         </a>
       </header>
     </div>
